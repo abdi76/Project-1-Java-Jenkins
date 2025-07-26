@@ -35,7 +35,7 @@ Phase 0 is your **environment readiness checkpoint** to avoid roadblocks later.
 AWS Management Console dashboard after logging in
 ```
 
-![a6c3114b-cb98-44e0-a4f1-86999db5e0d2](file:///C:/Users/abdi7/Pictures/Typedown/a6c3114b-cb98-44e0-a4f1-86999db5e0d2.png)
+![a6c3114b-cb98-44e0-a4f1-86999db5e0d2](a6c3114b-cb98-44e0-a4f1-86999db5e0d2.png)
 
 ---
 
